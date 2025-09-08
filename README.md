@@ -95,6 +95,3 @@ week6/
 
 This project is open-source and available under the **MIT License**.
 
-
-
-Do you also want me to **add live preview instructions** (e.g., how to use GitHub Pages so your assignment is accessible as a live website)?
